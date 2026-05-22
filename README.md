@@ -163,9 +163,9 @@ See [Reports/final_submission_v1.pdf](Reports/final_submission_v1.pdf) for the c
 
 **Amandeep Kumar**
 - 🎓 IITM BS Degree Candidate
-- 📧 Email: [Your Email]
+- 📧 Email: amandeepsinghwinner@gmail.com
 - 🔗 GitHub: [@Amandeep-winner](https://github.com/Amandeep-winner)
-- 💼 LinkedIn: [Your LinkedIn Profile]
+- 💼 LinkedIn: [[Your LinkedIn Profile]](https://www.linkedin.com/in/amandeep-winner/)
 
 ---
 
