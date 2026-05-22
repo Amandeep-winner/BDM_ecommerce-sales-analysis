@@ -165,7 +165,7 @@ See [Reports/final_submission_v1.pdf](Reports/final_submission_v1.pdf) for the c
 - 🎓 IITM BS Degree Candidate
 - 📧 Email: amandeepsinghwinner@gmail.com
 - 🔗 GitHub: [@Amandeep-winner](https://github.com/Amandeep-winner)
-- 💼 LinkedIn: [[Your LinkedIn Profile]](https://www.linkedin.com/in/amandeep-winner/)
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/amandeep-winner/)
 
 ---
 
@@ -187,7 +187,7 @@ Contributions, issues, and feature requests are welcome!
 ## 📞 Support
 
 For questions or support regarding this project:
-- 📧 Email: [Your Email]
+- 📧 [Email](amandeepsinghwinner@gmail.com)
 - 💬 GitHub Issues: [Create an issue](https://github.com/Amandeep-winner/BDM_ecommerce-sales-analysis/issues)
 
 ---
